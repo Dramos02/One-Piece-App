@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">One_Piece App with Firebase</string>
+    <string name="titleApp">One Piece App</string>
+    <string name="copyrights">Copyrights by @github/Dramos02 - Dominic Ramos</string>
+    <string name="addRecTitle">One Piece Characters</string>
+    <string name="characterName">Name</string>
+    <string name="characterBounty">Bounty</string>
+    <string name="characterPower">Power</string>
+    <string name="characterImgurl">Image URL</string>
+    <string name="btnSaveRec">Save</string>
+    <string name="btnCancelRect">Cancel</string>
+</resources>
